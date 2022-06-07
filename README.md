@@ -1,2 +1,3 @@
-# Automatisation-de-l-analyse-technique-
+# Automatisation-de-l-analyse-technique-pour-le-RSI
+
 backtrader (require Matplotlib)
